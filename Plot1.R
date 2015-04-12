@@ -29,5 +29,3 @@ hist(active_power,
 dev.copy(png, file="plot1.png", width=480, height=480)
 
 dev.off()
-rm(all_data)
-rm(data)
