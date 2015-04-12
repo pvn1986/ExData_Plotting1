@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 # Course Project 1
-# Base plot
+# Plot1
 
 #Read Data
 
@@ -26,6 +26,6 @@ hist(active_power,
 
 
 #Copy to File
-dev.copy(png, file="plot1.png", width=480, height=480)
+dev.copy(png, file="Plot1.png", width=480, height=480)
 
 dev.off()
